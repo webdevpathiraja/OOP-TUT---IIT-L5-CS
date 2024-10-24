@@ -1,5 +1,4 @@
 // A subclass Cylinder is derived from the superclass Circle.
-// In the declaration of the class you should use the keyword extends:
 
 import java.util.Objects;
 
